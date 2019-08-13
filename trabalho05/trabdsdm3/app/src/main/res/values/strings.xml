@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">trabdsdm</string>
+    <string name="entrar">Entrar</string>
+    <string name="usu_rio">usuário</string>
+    <string name="senha">senha</string>
+    <string name="entrar">Entrar</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="email">email</string>
+    <string name="confirmar_email">confirmar email</string>
+</resources>
